@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome User Registration  Passport Seva",
+  "Type": "App",
+  "Id": "fOK44-z19UKfwPYi5siaSQ",
+  "Reference": "slW8EfaohE2vcw0OmkdVTA/fOK44-z19UKfwPYi5siaSQ",
+  "Created": "2025-02-17T16:47:32.9014581Z",
+  "Updated": "2025-02-17T16:47:32.9014581Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

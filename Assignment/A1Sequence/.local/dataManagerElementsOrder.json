@@ -1,0 +1,91 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "UserInput1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Task2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Math&Sequence_1",
+        "Chemistry&Sequence_1",
+        "Physics&Sequence_1",
+        "Total&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Taks3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "UserInput1&Sequence_1",
+        "UserInput2&Sequence_1",
+        "Result&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Task4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Task5.2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "A&Sequence_1",
+        "B&Sequence_1",
+        "C&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Task5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "A&Sequence_1",
+        "B&Sequence_1",
+        "C&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "task5.3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "A&Sequence_1",
+        "B&Sequence_1",
+        "C&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

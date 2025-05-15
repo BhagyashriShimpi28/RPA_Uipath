@@ -1,0 +1,94 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WebAutomation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "page&Sequence_1",
+        "brinfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Passport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "brnfo&Sequence_1",
+        "page&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GmailSignUp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "binfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "logingmailwithemailsent.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "login&Sequence_1",
+        "pass&Sequence_1",
+        "emailid&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NaukariSignup.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "lenem_latestFile&Sequence_2",
+        "str_floderpath&Sequence_2",
+        "brinfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "loginTogmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "brinfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

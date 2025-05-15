@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome User Registration  Passport Seva",
+  "Type": "Screen",
+  "Id": "MGIu9ZM7gUSegM1sgusnjA",
+  "Reference": "slW8EfaohE2vcw0OmkdVTA/MGIu9ZM7gUSegM1sgusnjA",
+  "ParentRef": "slW8EfaohE2vcw0OmkdVTA/LFUEZqSgyEeQbXsYat_7YQ",
+  "Created": "2025-02-17T16:47:33.0185026Z",
+  "Updated": "2025-02-17T16:47:33.0185026Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
