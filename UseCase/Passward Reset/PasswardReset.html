@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Password Generator Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+    input {
+      padding: 8px;
+      width: 300px;
+    }
+    button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      font-weight: bold;
+    }
+    #passwordDisplay {
+      margin-top: 20px;
+      font-size: 18px;
+      color: green;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Employee Password Generator</h2>
+
+  <form id="userForm">
+    <label>Username:</label>
+    <input type="text" id="username" required>
+
+    <label>Employee Code:</label>
+    <input type="text" id="empCode" required>
+
+    <label>Email Address:</label>
+    <input type="email" id="email" required>
+
+    <button type="button" onclick="generatePassword()">Generate Password</button>
+  </form>
+
+  <div id="passwordDisplay"></div>
+
+  <script>
+    function generatePassword() {
+      const username = document.getElementById('username').value.trim();
+      const empCode = document.getElementById('empCode').value.trim();
+      const email = document.getElementById('email').value.trim();
+
+      if (!username || !empCode || !email) {
+        alert("Please fill out all fields.");
+        return;
+      }
+
+      const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$!";
+      let password = '';
+      for (let i = 0; i < 10; i++) {
+        password += chars.charAt(Math.floor(Math.random() * chars.length));
+      }
+
+      document.getElementById('passwordDisplay').innerText = "Generated Password: " + password;
+    }
+  </script>
+
+</body>
+</html>
